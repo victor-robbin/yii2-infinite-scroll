@@ -1,0 +1,7 @@
+.idea
+.project
+.svn
+
+composer.phar
+vendor/
+composer.lock

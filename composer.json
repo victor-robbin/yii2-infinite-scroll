@@ -1,0 +1,25 @@
+{
+    "name":              "terrabo/yii2-infinite-scroll",
+    "description":       "Yii2 infinite scroll button widget",
+    "keywords":          [
+        "terrabo",
+        "yii2"
+    ],
+    "type":              "yii2-extension",
+    "license":           "BSD License",
+    "authors":           [
+        {
+            "name":  "Terrabo",
+            "email": "support@terrabo.ru",
+            "homepage": "http://terrabo.ru",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require":           {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {"terrabo\\infinitesrc\\": ""}
+    }
+}
